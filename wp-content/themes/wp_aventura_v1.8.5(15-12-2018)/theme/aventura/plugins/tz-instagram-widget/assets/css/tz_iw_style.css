@@ -1,0 +1,22 @@
+/* =========================================================================
+ *  TZ instagram style
+ * ========================================================================= */
+
+.tz-instagram-content:after {
+    display: table;
+    clear: both;
+    content: '';
+}
+h4.instagram-title i.fa {
+    margin-right: 5px;
+}
+.tz-instagram-footer {
+    width: 25%;
+    float: left;
+}
+
+@media only screen and (max-width: 768px) {
+    .tz-instagram-footer {
+        width: 50%;
+    }
+}

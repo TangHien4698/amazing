@@ -1,0 +1,1985 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:62
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:74
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:18
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:35
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:44
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:89
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:18
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:79
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:89
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:99
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:116
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:40
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:80
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:18
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:40
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:62
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:139
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:157
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:203
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:410
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:428
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-31 11:15+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: aventura-plugin.php:95
+msgid "Facebook URL"
+msgstr ""
+
+#: aventura-plugin.php:96
+msgid "Twitter URL"
+msgstr ""
+
+#: aventura-plugin.php:97
+msgid "Pinterest URL"
+msgstr ""
+
+#: aventura-plugin.php:98
+msgid "Google+ URL"
+msgstr ""
+
+#: aventura-plugin.php:99
+msgid "Youtube URL"
+msgstr ""
+
+#: aventura-plugin.php:100
+msgid "Dribbble URL"
+msgstr ""
+
+#: aventura-plugin.php:101
+msgid "Instagram URL"
+msgstr ""
+
+#: aventura-plugin.php:102
+msgid "Github URL"
+msgstr ""
+
+#: aventura-plugin.php:103
+msgid "Behance URL"
+msgstr ""
+
+#: aventura-plugin.php:111
+msgid "Share:"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:11
+msgctxt "post type general name"
+msgid "Branches"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:12
+msgctxt "post type singular name"
+msgid "Branches"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:13
+msgctxt "branchs"
+msgid "New Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:14
+msgid "Add New Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:15
+msgid "Edit Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:16
+msgid "New Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:17
+msgid "All Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:18
+msgid "View Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:19
+msgid "Search Branch"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:20
+msgid "No Branch found"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:21
+msgid "No Branch found in Trash"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:23
+msgid "Branches"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:41
+#: admin/post-type/branchs-post-type.php:42
+#: admin/post-type/branchs-post-type.php:54
+msgid "Branch Categories"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:53
+#: admin/post-type/destination-post-type.php:45
+#: admin/post-type/tour-guide-post-type.php:46
+#: admin/post-type/tour-post-type.php:60
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:24
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:21
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:61
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:68
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:49
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:51
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:135
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:42
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:16
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:47
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:40
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:227
+#: admin/widgets/recent-post.php:78
+msgid "Title"
+msgstr ""
+
+#: admin/post-type/branchs-post-type.php:55
+#: admin/post-type/destination-post-type.php:46
+#: admin/post-type/tour-guide-post-type.php:47
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:59
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:133
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:364
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:233
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:367
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:431
+msgid "Date"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:11
+msgctxt "post type general name"
+msgid "Destinations"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:12
+msgctxt "post type singular name"
+msgid "Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:13
+msgctxt "destination"
+msgid "New Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:14
+msgid "Add New Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:15
+msgid "Edit Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:16
+msgid "New Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:17
+msgid "All Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:18
+msgid "View Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:19
+msgid "Search Destination"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:20
+msgid "No Destination found"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:21
+msgid "No Destination found in Trash"
+msgstr ""
+
+#: admin/post-type/destination-post-type.php:23
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:14
+msgid "Destinations"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:11
+msgctxt "post type general name"
+msgid "Tour Guides"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:12
+msgctxt "post type singular name"
+msgid "Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:13
+msgctxt "tour_guide"
+msgid "New Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:14
+msgid "Add New Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:15
+msgid "Edit Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:16
+msgid "New Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:17
+msgid "All Tours Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:18
+msgid "View Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:19
+msgid "Search Tour Guide"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:20
+msgid "No Tour Guide found"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:21
+msgid "No Tour Guide found in Trash"
+msgstr ""
+
+#: admin/post-type/tour-guide-post-type.php:23
+msgid "Tour Guides"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:11
+msgctxt "post type general name"
+msgid "Tours"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:12
+msgctxt "post type singular name"
+msgid "Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:13
+msgctxt "tour"
+msgid "New Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:14
+msgid "Add New Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:15
+msgid "Edit Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:16
+msgid "New Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:17
+msgid "All Tours"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:18
+msgid "View Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:19
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:4
+msgid "Search Tour"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:20
+msgid "No Tour found"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:21
+msgid "No Tour found in Trash"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:23
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination.php:123
+msgid "Tours"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:41 admin/post-type/tour-post-type.php:42
+#: admin/post-type/tour-post-type.php:61
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:97
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:88
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:47
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:69
+msgid "Tour Categories"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:48 admin/post-type/tour-post-type.php:49
+#: admin/post-type/tour-post-type.php:62
+msgid "Tour Language"
+msgstr ""
+
+#: admin/post-type/tour-post-type.php:63
+msgid "date"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:4
+msgid "About"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:15
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:20
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:28
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:28
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:10
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:28
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:28
+msgid "Aventura"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:16
+msgid "About Us"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:32
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:48
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:65
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:38
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:48
+msgid "Descriptions"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:40
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:143
+msgid "Button Text"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:48
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:71
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:107
+msgid "Button Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:55
+msgid "Iframe Video About"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:62
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:95
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:84
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:283
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:347
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:67
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:291
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:101
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:53
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:242
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:100
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:85
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:165
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:436
+msgid "Extra class name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:67
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:100
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:89
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:288
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:453
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:72
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:296
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:106
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:58
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:247
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:105
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:91
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:170
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:441
+msgid "CSS box"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/about/about-extend.php:68
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:101
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:90
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:289
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:454
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:73
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:297
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:107
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:59
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:248
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:106
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:93
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:171
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:442
+msgid "Design Options"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:9
+msgid "Articles"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:29
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:87
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:78
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:172
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:38
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:60
+msgid "Category"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:32
+msgid "Choose category."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:38
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:80
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:157
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:59
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:112
+msgid "Image Size"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:40
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:82
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:159
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:61
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"large\" size."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:47
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:93
+msgid "Post Per Page"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:55
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:130
+msgid "Order by"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:58
+msgid "choose order by"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:60
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:134
+msgid "ID"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:68
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:144
+msgid "Order"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:71
+msgid "choose order"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:72
+msgid "desc"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:73
+msgid "asc"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:80
+msgid "Posts Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/articles/articles-extend.php:88
+msgid "Posts Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:4
+msgid "Counter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:16
+msgid "Type Icon Counter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:20
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:20
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:20
+msgid "Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:21
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:21
+msgid "Icon"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:26
+msgid "Image Counter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:28
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:28
+msgid "Upload Image Icon.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:33
+msgid "Icon Counter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:35
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:44
+msgid "Input FontAwesome icon.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:42
+msgid "Color Of Icon"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:44
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:61
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:78
+msgid "You can set a color."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:51
+msgid "Count"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:59
+msgid "Color Of Count"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/counter/counter-extend.php:76
+msgid "Color Of Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:26
+msgid "Type Destination"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:29
+msgid "Choose Type Destination"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:30
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:38
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:38
+msgid "Type 1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:31
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:39
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:39
+msgid "Type 2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:32
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:40
+msgid "Type 3"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:33
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:41
+msgid "Type 4"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:34
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:42
+msgid "Type 5"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:39
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:62
+msgid "Destination"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:42
+msgid "Select Show Destinations"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:59
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:61
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:27
+msgid "Title Background"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:61
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:63
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:29
+msgid "Define a title background for the section"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:70
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:72
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:38
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:247
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:474
+msgid "Description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:72
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:74
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:40
+msgid "Define a description for the section(optional)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:90
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:166
+msgid "Deals Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:99
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:176
+msgid "Deals Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:108
+msgid "Choose Destination Column"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:122
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:185
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:130
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:82
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:294
+msgid "Desktop Items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:123
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:186
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:131
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:83
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:295
+msgid "Number of items display on the desktop"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:124
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:147
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:170
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:193
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:216
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:238
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:248
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:261
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:271
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:187
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:210
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:233
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:256
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:279
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:301
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:312
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:325
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:335
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:132
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:155
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:178
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:201
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:224
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:246
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:256
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:269
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:279
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:84
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:106
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:128
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:150
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:172
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:193
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:202
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:214
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:223
+msgid "Slide Options"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:128
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:151
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:174
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:197
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:220
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:191
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:214
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:237
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:260
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:283
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:136
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:159
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:182
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:205
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:228
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:88
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:110
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:132
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:154
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:176
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:299
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:320
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:341
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:362
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:383
+msgid "1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:129
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:152
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:175
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:198
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:221
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:192
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:215
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:238
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:261
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:284
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:137
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:160
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:183
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:206
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:229
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:89
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:111
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:133
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:155
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:177
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:300
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:321
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:342
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:363
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:384
+msgid "2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:130
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:153
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:176
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:199
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:222
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:193
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:216
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:239
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:262
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:285
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:138
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:161
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:184
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:207
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:230
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:90
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:112
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:134
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:156
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:178
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:301
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:322
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:343
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:364
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:385
+msgid "3"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:131
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:154
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:177
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:200
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:223
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:194
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:217
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:240
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:263
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:286
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:139
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:162
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:185
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:208
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:231
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:91
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:113
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:135
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:157
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:179
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:302
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:323
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:344
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:365
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:386
+msgid "4"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:132
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:155
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:178
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:201
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:224
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:195
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:218
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:241
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:264
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:287
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:140
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:163
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:186
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:209
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:232
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:92
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:114
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:136
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:158
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:180
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:303
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:324
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:345
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:366
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:387
+msgid "5"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:133
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:156
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:179
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:202
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:225
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:196
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:219
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:242
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:265
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:288
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:141
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:164
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:187
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:210
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:233
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:93
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:115
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:137
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:159
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:181
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:304
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:325
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:346
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:367
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:388
+msgid "6"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:134
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:157
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:180
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:203
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:226
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:197
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:220
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:243
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:266
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:289
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:142
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:165
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:188
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:211
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:234
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:94
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:116
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:138
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:160
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:182
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:305
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:326
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:347
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:368
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:389
+msgid "7"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:135
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:158
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:181
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:204
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:227
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:198
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:221
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:244
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:267
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:290
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:143
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:166
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:189
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:212
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:235
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:95
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:117
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:139
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:161
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:183
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:306
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:327
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:348
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:369
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:390
+msgid "8"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:136
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:159
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:182
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:205
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:228
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:199
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:222
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:245
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:268
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:291
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:144
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:167
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:190
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:213
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:236
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:96
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:118
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:140
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:162
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:184
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:307
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:328
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:349
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:370
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:391
+msgid "9"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:137
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:160
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:183
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:206
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:229
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:200
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:223
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:246
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:269
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:292
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:145
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:168
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:191
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:214
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:237
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:97
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:119
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:141
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:163
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:185
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:308
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:329
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:350
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:371
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:392
+msgid "10"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:145
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:208
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:153
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:104
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:315
+msgid "Desktop Small Items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:146
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:209
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:154
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:105
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:316
+msgid "Number of items display on the desktop small"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:168
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:231
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:176
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:126
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:336
+msgid "Tablet Items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:169
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:232
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:177
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:127
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:337
+msgid "Number of items display on the tablet"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:191
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:254
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:199
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:148
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:357
+msgid "Tablet Portait Items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:192
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:255
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:200
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:149
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:358
+msgid "Number of items display on the tablet portait"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:214
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:277
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:222
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:170
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:378
+msgid "Mobile Items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:215
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:278
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:223
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:171
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:379
+msgid "Number of items display on the mobile"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:237
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:300
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:245
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:192
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:399
+msgid "Margin Item"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:241
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:305
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:249
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:196
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:402
+msgid "Ex: 30"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:247
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:311
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:96
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:255
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:201
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:137
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:408
+msgid "Auto Play"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:253
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:276
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:317
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:340
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:358
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:370
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:382
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:394
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:406
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:419
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:432
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:445
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:261
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:284
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:207
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:228
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:141
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:159
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:412
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:430
+msgid "Yes"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:260
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:324
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:268
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:213
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:147
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:418
+msgid "Auto Play Timeout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination-extend.php:270
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:334
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:113
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:278
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:222
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:155
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:426
+msgid "Loop"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination.php:121
+msgid "Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination.php:182
+msgid "Deal Offers"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination.php:200
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:540
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:649
+msgid " Reviews"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination.php:202
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:542
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:651
+msgid " Review"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/destination/destination.php:207
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:415
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:516
+msgid "View More"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:22
+msgid "Feature Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:34
+msgid "Type Featured Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:37
+msgid "Choose Type Featured Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:83
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:56
+msgid "Type Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:86
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:77
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:59
+msgid "Choose Type Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:88
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:79
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:61
+msgid "Tour Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:100
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:91
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:50
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:72
+msgid "Select category tour."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:105
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:96
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:55
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:77
+msgid "Input Tour Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:108
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:99
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:58
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:80
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:214
+msgid "Add Post by title."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:121
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:121
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:235
+msgid "Limit Items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:147
+msgid "Descending (3,2,1 or c,b,a)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:148
+msgid "Ascending (1,2,3 or a,b,c)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:169
+msgid "View all deals"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:352
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:450
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:133
+msgid "Duration"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:353
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:365
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:377
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:389
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:401
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:414
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:427
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:440
+msgid "Show/Hide"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:376
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:242
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:373
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:440
+msgid "Departure"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:388
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:255
+msgid "Price"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:400
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:466
+msgid "Rating"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:413
+msgid "Review Button"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:426
+msgid "Read More Button"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour-extend.php:439
+msgid "Wishlist Button"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:147
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:318
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:410
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:492
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:616
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:723
+msgid "Book Now"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:202
+msgid "Sold Out"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:208
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour.php:128
+msgid "% Off"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:252
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:348
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:497
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:676
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour.php:154
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind.php:106
+msgid "From"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:274
+msgid "Show Reviews"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:280
+msgid "Read More"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:423
+msgid "Featured Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:574
+msgid " / person"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:583
+msgid "More Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:622
+#: admin/vc-extension/visual-composer/vc_aventura/featured-tours/featured-tour.php:730
+msgid "View Detail"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:4
+msgid "Hotline"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:16
+msgid "Background Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:21
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:51
+msgid "Color"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:26
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:129
+msgid "Background Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:28
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:16
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:34
+msgid "Upload Background Image.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:35
+msgid "Background Color"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:37
+msgid "You can set a color background."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:50
+msgid "Input Descriptions for Hotline."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:54
+msgid "Phone"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:56
+msgid "Input Phone for Hotline.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:60
+msgid "Email"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/hotline/hotline-extend.php:62
+msgid "Input Email for Hotline.   "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:4
+msgid "Latest Posts"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:18
+msgid "Define a title for the section"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:20
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:31
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:42
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:52
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:63
+msgid "General"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:49
+msgid "Limit Posts"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:76
+msgid "Show next/prev buttons"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:80
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:90
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:100
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:108
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:117
+msgid "Slider Options"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:86
+msgid "Show dots navigation"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-posts/latest-posts-extend.php:105
+msgid "Timeout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:22
+msgid "Latest Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:34
+msgid "Type Latest Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:37
+msgid "Choose Latest Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:56
+msgid "Link View All"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:74
+msgid "Type Latest"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour-extend.php:114
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full. Leave empty to "
+"use \"large\" size."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour.php:91
+msgid "View all tours"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour.php:131
+msgid " Save "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/latest-tour/latest-tour.php:131
+msgid "%"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:4
+msgid "Our Team"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:14
+msgid "Background Image Member"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:22
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:481
+msgid "Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:30
+msgid "Position"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:46
+msgid "Link Member"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:54
+msgid "Link Facebook"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:62
+msgid "Link Twitter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:70
+msgid "Link Dribbble"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:78
+msgid "Link Google+"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:86
+msgid "Link Instagram"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/our-team/our-team-extend.php:94
+msgid "Link Vimeo"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:41
+msgid "Keywords"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:46
+msgid "Enter a keyword here"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:69
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:116
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:139
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:179
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:211
+msgid "Any"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:110
+msgid "Departure Date"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:140
+msgid "1 Day"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:141
+msgid "2 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:142
+msgid "3 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:143
+msgid "4 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:144
+msgid "5 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:145
+msgid "6 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:146
+msgid "7 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:147
+msgid "8 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:148
+msgid "9 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:149
+msgid "10 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:150
+msgid "11 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:151
+msgid "12 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:152
+msgid "13 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:153
+msgid "14 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:154
+msgid "15 Days"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:205
+msgid "Language"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour.php:234
+msgid "Search"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:17
+msgid "Field Name Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:20
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:41
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:62
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:83
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:105
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:126
+msgid "Show"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:21
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:42
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:63
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:84
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:104
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:125
+msgid "Hide"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:29
+msgid "Field Name Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:38
+msgid "Field Destination Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:50
+msgid "Field Destination Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:59
+msgid "Field Date Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:71
+msgid "Field Date Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:80
+msgid "Field Duration Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:92
+msgid "Field Duration Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:101
+msgid "Field Category Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:113
+msgid "Field Category Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:122
+msgid "Field Language Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/search_tour/search_tour_extend.php:134
+msgid "Field Language Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:4
+msgid "Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:16
+msgid "Type Icon Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:26
+msgid "Image Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:33
+msgid "Icon Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:40
+msgid "Tittle Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:42
+msgid "Input Tittle Services for Aventura"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:46
+msgid "Description Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/services/services-extend.php:48
+msgid "Input Description Services for Aventura"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:34
+msgid "Type Testimonials"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:37
+msgid "Choose Type Testimonials"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:39
+msgid "Post Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:71
+msgid "Height Item"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/testimonials/testimonials-extend.php:74
+msgid "Default Height: 590px"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:22
+msgid "Tour Kind"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_aventura/tour-kind/tour-kind-extend.php:32
+msgid "Background Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/banner_slider_item.php:39
+#: admin/vc-extension/visual-composer/vc_custom/banner_slider_item.php:79
+msgid "avg/person"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:7
+msgid "Pie Chart"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:11
+msgid "Content"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:12
+msgid "Animated pie chart"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:16
+msgid "Widget title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:18
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:23
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:98
+msgid "Widget Description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:25
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:101
+msgid "Enter text used as widget description."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:30
+msgid "Value"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:32
+msgid "Enter value for graph (Note: choose range from 0 to 100)."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:38
+msgid "Label value"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:40
+msgid ""
+"Enter label for pie chart (Note: leaving empty will set value from \"Value\" "
+"field)."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:45
+msgid "Units"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:47
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:53
+msgid "Custom"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:54
+msgid "Select pie chart color."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:61
+msgid "Custom color"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:63
+msgid "Select custom color."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:73
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:110
+msgid "Enter link used as button."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:79
+msgid "Element ID"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:81
+#, php-format
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/shortcode-vc-pie.php:87
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:8
+msgid "Row Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:12
+msgid "Full Width"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:13
+msgid "Container"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:21
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:27
+msgid "Gradient"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:22
+msgid "Select button display style."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:26
+msgid "None"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:28
+msgid "Gradient Custom"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:35
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:68
+msgid "Gradient Color 1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:37
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:70
+msgid "Select first color for gradient."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:51
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:83
+msgid "Gradient Color 2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:53
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:85
+msgid "Select second color for gradient."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:131
+msgid "Upload Background Image Of Banner.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:201
+msgid "Type Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:205
+msgid "Select Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:206
+msgid "Post Tour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:207
+msgid "Custom Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:211
+msgid "Include Post Tour Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:238
+msgid "country"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:263
+msgid "Button Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:271
+msgid "Link Button"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:458
+msgid "Image Customer"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:460
+msgid "Upload Image Customer.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/vc_extend.php:488
+msgid "Company"
+msgstr ""
+
+#: admin/widgets/recent-post.php:13
+msgid "Tz Recent Post"
+msgstr ""
+
+#: admin/widgets/recent-post.php:14
+msgid " Display post "
+msgstr ""
+
+#: admin/widgets/recent-post.php:86
+msgid "Display Type"
+msgstr ""
+
+#: admin/widgets/recent-post.php:96
+msgid "Limit post"
+msgstr ""
+
+#: admin/widgets/social.php:10
+msgid "Social Widget"
+msgstr ""
+
+#: admin/widgets/social.php:11
+msgid "Display social."
+msgstr ""
+
+#: admin/widgets/social.php:104
+msgid "Title:"
+msgstr ""
+
+#: admin/widgets/social.php:108 admin/widgets/social.php:112
+msgid "Facebook Url:"
+msgstr ""
+
+#: admin/widgets/social.php:116
+msgid "Google Plus Url:"
+msgstr ""
+
+#: admin/widgets/social.php:120
+msgid "Instagram Url:"
+msgstr ""
+
+#: admin/widgets/social.php:124
+msgid "Pinterest Url:"
+msgstr ""
+
+#: admin/widgets/social.php:128
+msgid "Youtube Url:"
+msgstr ""
+
+#: admin/widgets/social.php:132
+msgid "Linkedin Url:"
+msgstr ""
+
+#: admin/widgets/social.php:136
+msgid "Feed Url:"
+msgstr ""
+
+#: admin/widgets/social.php:140
+msgid "Skype Url:"
+msgstr ""
+
+#: admin/widgets/social.php:144
+msgid "Flickr Url:"
+msgstr ""
+
+#: admin/widgets/social.php:148
+msgid "Vimeo Url:"
+msgstr ""
+
+#: admin/widgets/social.php:152
+msgid "Tumblr Url:"
+msgstr ""

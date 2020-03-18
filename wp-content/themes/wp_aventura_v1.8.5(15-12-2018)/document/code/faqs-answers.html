@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="This is Documentation">
+    <meta name="author" content="TemPlaza.com">
+    <link rel="icon" href="assets/favicon.ico">
+
+    <title>Aventura- Travelling WordPress Theme V.1.5</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/style/style.min.css" rel="stylesheet">
+    <meta name="nav" content="faqs">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+<header id="navigator">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainnav">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a id="logo" class="navbar-brand" href="index.html"><img alt="TemPlaza" src="assets/logo.png"></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+
+            <div class="collapse navbar-collapse" id="mainnav">
+                <ul class="nav navbar-nav">
+                    <li data-menu="information"><a href="index.html">Information</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Installation
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li data-menu="getting-started"><a href="installation.html#getting-started">Getting
+                                Started</a>
+                            </li>
+                            <li data-menu="requirements"><a href="installation.html#requirements">Basic Requirements</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li data-menu="installation"><a href="installation.html#installation">Theme Installation</a>
+                            </li>
+                            <li data-menu="importation"><a href="installation.html#importation">Data Importation</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Basic
+                            Settings
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li data-menu="tutorials"><a href="basic-settings.html#tutorials">Tutorials</a></li>
+                            <li data-menu="menu-setting"><a href="basic-settings.html#menu-setting">Menu Setting</a>
+                            </li>
+                            <li data-menu="widgets"><a href="basic-settings.html#widgets">Widgets</a></li>
+                            <li data-menu="footer-settings"><a href="basic-settings.html#footer-settings">Footer
+                                Settings</a></li>
+                            <li data-menu="posts"><a href="basic-settings.html#posts">Posts</a></li>
+                        </ul>
+                    </li>
+                    <li data-menu="theme-option"><a href="theme-option.html">Theme Option</a></li>
+                    <li data-menu="demo-pages"><a href="pages.html">Demo Pages</a></li>
+                    <li data-menu="elements"><a href="elements.html">Elements</a></li>
+                    <li data-menu="faqs"><a href="faqs.html">FAQs</a></li>
+
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+</header>
+
+<!--Start Content generate-->
+
+<div class="title-head">
+    <div class="container">
+        <h1>Aventura - Travelling WordPress Theme V.1</h1>
+
+        <p>You can find your answers easily in this page.</p>
+    </div>
+</div>
+<section class="general">
+<div class="container">
+
+<h2 id="faqs-style-css" class="page-header">
+    Unable to install theme. WordPress reports that style.css is missing?
+    What should I do to fix this?
+</h2>
+
+<div class="faq-content">
+    <h5>Answer:</h5>
+
+    <p>Make sure that you uploaded right file. You have to unzip theme package and upload
+        <strong>aventura.zip</strong> file
+        which is in <strong>demo-data folder</strong>. Please go back to
+        <a href="installation.html#installation">Installation</a> for more information.</p>
+</div>
+<!--End faq 2-->
+
+<h2 id="faqs-errors" class="page-header">
+    When I install this theme, I get this error:
+    "Are you sure you want to do this? Please try again"
+</h2>
+
+<div class="faq-content">
+    <h5>Answer:</h5>
+
+    <p>If you get this error message after uploading this theme to WordPress please read on:</p>
+
+    <p>This error is normally because your WordPress site does not have sufficient file upload limits in order
+        to upload.</p>
+
+    <p><strong>Solutions:</strong></p>
+    <ul>
+        <li><strong>Solution 1:</strong> Upload the plugin or theme via FTP orr Cpanel. Please back to
+            <a href="installation.html#installation">Theme Installation</a> --&gt; FTP Upload to see more
+            information.
+        </li>
+        <li><strong>Solution 2:</strong> Speak to your host and ask them to increase your file upload
+            limitations for WordPress
+        </li>
+        <li><strong>Solution 3:</strong> Inside your wp-config.php file, add this line at the top of the file:
+            define('WP_MEMORY_LIMIT', '128M');
+        </li>
+    </ul>
+    <p>Please note in cases where your PHP limit is also reduced you may need to speak to your hosting company
+        to increase it.</p>
+</div>
+<!--End faq 3-->
+
+<h2 id="faqs-1" class="page-header">
+    How can I install my site like demo?
+</h2>
+
+<div class="faq-content">
+    <h5>Answer:</h5>
+
+    <p>To install demo data, it is much easier for you to use demo data which is included in demo-data
+        folder.</p>
+
+    <p>Please refer to <a href="installation.html#importation">Importation section</a> to have detail
+        instruction.</p>
+</div>
+<!--End faq 1-->
+
+<h2 id="faqs-3" class="page-header">
+    How to change logo/favicon?
+</h2>
+
+<div class="content">
+    <h5>Answer:</h5>
+
+    <p>Go to <code>Dashboard --> Theme Options -->
+        Header options > Logo</code> to upload your logo image.</p>
+</div>
+<!--End faq 3-->
+
+<h2 id="faqs-4" class="page-header">
+    Can I change Copyright and how to change?
+</h2>
+
+<div class="content">
+    <h5>Answer:</h5>
+
+    <p>Certainly. You can replace all dummy information in this theme with your own information.
+        To change Copyright line, you go to <code>Dashboard --> Theme Option --> Footer bottom</code> and edit
+        your information.
+    </p>
+</div>
+<!--End faq 4-->
+
+    <h2 id="faqs-translate" class="page-header">
+        How to translate this theme?
+    </h2>
+
+    <div class="content">
+        <h5>Answer:</h5>
+
+        <p>To translate the theme and plugin, you can use <a href="https://wordpress.org/plugins/loco-translate/" target="_blank">
+            Loco Translate</a> plugin or <a href="https://poedit.net/" target="_blank">Poedit</a>
+        </p>
+    </div>
+    <!--End faq translate-->
+
+<h2 id="faqs-update" class="page-header">
+    How to update this theme?
+</h2>
+
+<div class="content">
+    <h5>Answer:</h5>
+
+    <p>Updating the theme via WordPress is very similar to the install process via WordPress.
+        Follow the steps below to update your theme via WordPress: </p>
+
+    <p><strong>Step 1:</strong> Log into marketplace where you buy this theme and download updated version.</p>
+
+    <p><strong>Step 2:</strong> You need to deactivate the current Aventura theme located in <i>Appearance -->
+        Themes</i> section by activating a different theme. Once you activate a different theme, you can delete
+        Aventura theme. Don't worry, your content <strong>will not be lost</strong></p>
+
+    <p><strong>Step 3:</strong> Unzip the new theme package you've downloaded and open <strong>theme
+        folder</strong> of your theme version. You can see .zip file inside.</p>
+
+    <p><strong>Step 4:</strong> Upload this zip file to <i>Appearance --> Themes</i> section by clicking on
+        the <strong>Install Themes</strong> tab at the top.</p>
+
+    <p><strong>Step 5:</strong> Once it finishes uploading, choose to activate the theme.</p>
+
+    <p><strong>Notice:</strong> In case you customize something in Aventura's code, it's safe to backup all your
+        data before updating so that
+        your customizations will not be lost. Refer to this link for more instruction of how to backup your
+        database:
+        <a target="_blank" href="https://codex.wordpress.org/Backing_Up_Your_Database">https://codex.wordpress.org/Backing_Up_Your_Database</a>
+    </p>
+</div>
+<!--End faq update-->
+
+<h2 id="faqs-child" class="page-header">
+    Does this theme support Child Theme?
+</h2>
+
+<div class="content">
+    <h5>Answer:</h5>
+
+    <p>Yes. You can find Child Theme in <strong>Theme folder</strong> - one of 3 folders inside theme package. A
+        child theme
+        is a theme that inherits the functionality of another theme, called the parent theme.
+        Child themes allow you to modify, or add to the functionality of that parent theme.
+        A child theme is the best, safest, and easiest way to modify an existing theme,
+        whether you want to make a few tiny changes or extensive changes. Instead of modifying the theme files
+        directly,
+        you can create a child theme and override within.</p>
+
+    <p>If you modify an existing theme and it is updated, your changes will be lost. With a child theme, you can
+        update the parent theme (which might be important for security or functionality) and still keep your
+        changes.
+        It’s a great way to get started if you are just learning WordPress theme development.</p>
+
+    <p>You can learn more about Child Theme <a target="_blank" href="https://codex.wordpress.org/Child_Themes">https://codex.wordpress.org/Child_Themes</a>
+    </p>
+</div>
+<!--End faq child theme-->
+
+<h2 id="faqs-10" class="page-header">
+    Where can I find offline documentation?
+</h2>
+
+<div class="content">
+    <h5>Answer:</h5>
+
+    <p>After you extract theme package, you will see 3 folders inside: <strong> demo-data, document and
+        theme.</strong>
+        Offline documentation is included in <strong>document folder.</strong></p>
+</div>
+<!--End faq 10-->
+
+</div>
+</section>
+<!--End content generate-->
+
+<footer id="doc-footer">
+    <div class="container">
+        <div class="doc-social">
+            <ul class="docs-social-buttons">
+                <li>
+                    <a href="https://twitter.com/templazavn" class="twitter-follow-button"><i
+                            class="fa fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/templaza" class="facebook-like-button"><i
+                            class="fa fa-facebook-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://plus.google.com/+Templaza/" class="google-plus-button"><i
+                            class="fa fa-google-plus-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://dribbble.com/templaza" class="dribbble-button"><i class="fa fa-dribbble"></i></a>
+                </li>
+                <li>
+                    <a href="https://github.com/templaza" class="github-button"><i class="fa fa-github"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.youtube.com/channel/UCykS6SX6L2GOI-n3IOPfTVQ" class="youtube-button"><i
+                            class="fa fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.behance.net/templaza" class="behance-button"><i
+                            class="fa fa-behance-square"></i></a>
+                </li>
+            </ul>
+        </div>
+
+
+        <p>Copyright © 2015 <a href="http://www.templaza.com/">TemPlaza</a>. All Rights Reserved.</p>
+        <ul class="docs-footer-links text-muted">
+            <li><a href="https://www.templaza.com/">TemPlaza</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/joomla-templates">Joomla Template</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/wordpress-themes">WordPress Theme</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/free-stuff">Freebies</a></li>
+            <li>·</li>
+            <li><a href="https://www.templaza.com/Forums/forums.html">Forums</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/blog/">Blog</a></li>
+        </ul>
+    </div>
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.prettyPhoto.js"></script>
+<script src="assets/js/doc.js"></script>
+<div id="trackscript"><!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = {atrk_acct: "r77Zi1a8Dy00yl", domain: "templaza.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=r77Zi1a8Dy00yl" style="display:none"
+                   height="1" width="1" alt=""/></noscript>
+    <!-- End Alexa Certify Javascript -->
+    <!-- Start Google Analytics Javascript -->
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-26265573-1', 'templaza.com');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics Javascript -->
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+        window.$zopim || (function (d, s) {
+            var z = $zopim = function (c) {
+                z._.push(c)
+            }, $ = z.s =
+                    d.createElement(s), e = d.getElementsByTagName(s)[0];
+            z.set = function (o) {
+                z.set.
+                        _.push(o)
+            };
+            z._ = [];
+            z.set._ = [];
+            $.async = !0;
+            $.setAttribute('charset', 'utf-8');
+            $.src = '//v2.zopim.com/?1tuDX8gQ1pKTSkSVkYC9WczvTwtzyJ3m';
+            z.t = +new Date;
+            $.
+                    type = 'text/javascript';
+            e.parentNode.insertBefore($, e)
+        })(document, 'script');
+    </script>
+    <!--End of Zopim Live Chat Script--></div>
+</body>
+</html>

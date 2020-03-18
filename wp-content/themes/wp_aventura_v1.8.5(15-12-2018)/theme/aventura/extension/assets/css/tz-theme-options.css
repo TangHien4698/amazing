@@ -1,0 +1,380 @@
+body .ot-gallery-buttons{
+    width: auto;
+}
+#setting_plazartthemefooter_image div.format-setting-inner {
+    width: 100% !important;
+}
+#option-tree-settings-api > .ui-tabs{
+    box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    -ms-box-shadow: none !important;
+    -o-box-shadow: none !important;
+}
+.mce-toolbar .mce-btn i{
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    text-shadow: none;
+}
+#page_meta_box{
+    display: none;
+}
+body #setting_plazarttheme_404_page_content .format-setting .format-setting-inner{
+    width: 100% !important;
+}
+body #setting_plazarttheme_copyright .format-setting .format-setting-inner{
+    width: 100% !important;
+}
+body .format-setting .format-setting-inner{
+    width: 50% !important;
+}
+body #plazarttheme_copyright_toolbar3{
+    display: none;
+}
+body #plazarttheme_404_page_content_toolbar3{
+    display: none;
+}
+/*end custom textarea*/
+
+body #setting_plazarttheme_TzFontDefault{
+    display: none;
+}
+body #setting_plazarttheme_TzFontSquirrel{
+    display: none;
+}
+body #setting_plazarttheme_TzFontFami{
+    display: none;
+}
+body #setting_plazarttheme_TzFontFaminy{
+    display: none;
+}
+
+/*header font*/
+body #setting_plazarttheme_TzFontHeadDefault{
+    display: none;
+}
+body #setting_plazarttheme_TzFontHeadSquirrel{
+    display: none;
+}
+body #setting_plazarttheme_TzFontHeadGoodurl{
+    display: none;
+}
+body #setting_plazarttheme_TzFontFaminyHead{
+    display: none;
+}
+
+
+body #setting_plazarttheme_TzFontMenuDefault{
+    display: none;
+}
+body #setting_plazarttheme_TzFontMenuSquirrel{
+    display: none;
+}
+body #setting_plazarttheme_TzFontMenuGoodurl{
+    display: none;
+}
+body #setting_plazarttheme_TzFontFaminyMenu{
+    display: none;
+}
+
+
+/*custom font*/
+body #setting_plazarttheme_TzFontCustomDefault{
+    display: none;
+}
+body #setting_plazarttheme_TzFontCustomSquirrel{
+    display: none;
+}
+body #setting_plazarttheme_TzFontCustomGoodurl{
+    display: none;
+}
+body #setting_plazarttheme_TzFontFaminyCustom{
+    display: none;
+}
+body #setting_plazarttheme_TZBackgroundColor{
+    display: none;
+}
+/*style option*/
+body #tab_TzFontMenu,
+body #tab_TzFontCustom,
+body #tab_TZBody,
+body #tab_TzFontHeader{
+    background: #EAEAEA;
+    border: 0;
+    display: none;
+
+}
+/*logo*/
+body div#setting_plazarttheme_logoText{
+    display: none;
+}
+body div#setting_plazarttheme_logoTextcolor{
+    display: none;
+}
+body div#setting_plazarttheme_favicon{
+    display: none;
+}
+/* css background option*/
+body .background_pattern {
+    width: 40px;
+    height: 40px;
+    border-radius: 0;
+    padding: 2px;
+}
+body #setting_plazarttheme_background_pattern .format-setting .format-setting-inner{
+    width: 100% !important;
+}
+
+
+
+/*style option*/
+body #page-ot_theme_options{
+    width: 80%;
+}
+body .wrap.settings-wrap .ui-tabs-nav{
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    width: 160px;
+}
+body #option-tree-sub-header{
+background-color: #f1f1f1  !important;
+}
+body #option-tree-settings-api .ui-tabs{
+    background: url("../images/ot-menu-bg2.png") repeat-y scroll 0 0 #f1f1f1 !important;
+}
+
+body .wrap.settings-wrap .ui-tabs-nav li.ui-state-active{
+
+    border: none;
+    background:  #ffffff !important;
+    margin-right: -0px;
+    border-radius: 0;
+}
+body .wrap.settings-wrap .ui-tabs-nav li.ui-state-active a{
+    color: #797979;
+
+}
+body .wrap.settings-wrap .ui-tabs-nav li{
+    border-bottom: 1px solid #D8D8D8;
+    border-top: 1px solid #FFFFFF;
+    color: #797979;
+    display: block;
+    font: bold 12px/18px sans-serif;
+    padding: 7px 10px;
+    text-decoration: none;
+
+}
+body .wrap.settings-wrap .ui-tabs-nav li a{
+    padding: 1px 5px 1px 27px;
+    font-weight: 600;
+    color: #555555;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+body #option-tree-header{
+    border-radius: 2px 2px 0 0;
+}
+body .format-setting-label {
+
+    border-bottom: 1px solid #f1f1f1;
+    margin: 0 0 20px;
+    padding: 0px 0px 5px;
+    width: 100%;
+}
+body .format-setting-wrap{
+    border-bottom: 0;
+    padding-bottom: 20px;
+}
+body input.option-tree-ui-upload-input, input.option-tree-ui-input{
+    padding: 6px;
+}
+body .format-settings{
+    padding: 0 0 20px;
+}
+
+body #option-tree-settings-api .postbox{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: medium none;
+    margin: 0px;
+    padding: 20px;
+}
+body #wpbody-content .metabox-holder{
+    padding-top: 0;
+}
+body #option-tree-settings-api .ui-tabs{
+    padding-bottom: 0;
+}
+body #option-tree-header #option-tree-version span{
+    display: none;
+}
+body .option-tree-ui-buttons{
+    background: #f1f1f1;
+    margin-top: 5px;
+}
+body .format-setting-inner input,
+body .format-setting-inner textarea,
+body .format-setting-inner select{
+    background: #f1f1f1;
+}
+body .format-setting-inner input:hover,
+body .format-setting-inner input:focus,
+body .format-setting-inner textarea:hover,
+body .format-setting-inner textarea:focus
+{
+    background: #ffffff;
+}
+body .select-wrapper{
+    background-color: #f1f1f1;
+}
+body .select-wrapper:hover,
+body .select-wrapper:focus{
+    background-color: #ffffff;
+}
+#tab_TzSyle{
+    position: relative;
+}
+#tab_TzSyle:after{
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 7px solid #000;
+    content: "";
+    position: absolute;
+    right: 7px;
+    top: 14px;
+}
+#setting_plazarttheme_header_option .option-tree-ui-radio-images{
+    float: none !important;
+}
+/* logo icon */
+body #tab_social_network a{
+    background: url("../images/social_links_icon.png") no-repeat left center;
+}
+body #tab_TZBackground a{
+    background: url("../images/icon-background.png") no-repeat left center;
+}
+body #tab_TZBlog a{
+    background: url("../images/icon-docs.png") no-repeat left center;
+}
+body #tab_TzGlobalOption a{
+    background: url("../images/global.png") no-repeat left center;
+}
+body #tab_google_analytics a{
+    background: url("../images/google_al.png") no-repeat left center;
+}
+body #tab_TzSyle a{
+    background: url("../images/font-style.png") no-repeat left center;
+}
+body #tab_copyright a{
+    background: url("../images/copyright.png") no-repeat left center;
+}
+body #tab_404 a{
+    background: url("../images/_error.png") no-repeat left center;
+}
+body #tab_logo a{
+    background: url("../images/logo_favicon.png") no-repeat left center;
+}
+body #tab_TzCustomCss a{
+    background: url("../images/css.png") no-repeat left center;
+}
+#tab_TZThemecolor a{
+    background: url("../images/color.png") no-repeat left center ;
+    background-size: 16px 16px;
+}
+body #tab_footeroption a{
+    background: url("../images/icon-footer.png") no-repeat left center;
+}
+body #tab_logo a{
+    background: url("../images/logo_favicon.png") no-repeat left center;
+}
+body #tab_header a{
+    background: url("../images/header.png") no-repeat left center;
+}
+body #tab_TZSingle a{
+    background: url("../images/normal-check.jpg") no-repeat left center;
+}
+body #tab_TZShop a{
+    background: url("../images/shop_cart.png") no-repeat left center;
+}
+body #tab_TZShopCat a{
+    background: url("../images/shop_category.png") no-repeat left center;
+}
+body #tab_TZShop1,
+body #tab_TZShop2,
+body #tab_TZShop3{
+    display: none;
+    border: 0;
+}
+#tab_TZShop{
+    position: relative;
+}
+#tab_TZShop:after {
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 7px solid #000;
+    content: "";
+    position: absolute;
+    right: 7px;
+    top: 14px;
+}
+#setting_TZShop{
+    background: url("../images/shop-page.jpg") no-repeat scroll 0 115px rgba(0, 0, 0, 0);
+    min-height: 543px;
+}
+
+#setting_TZShop1{
+    background-image: url("../images/shop-page-section1.jpg");
+    background-position: 0 125px;
+    background-repeat: no-repeat;
+    min-height: 460px;
+}
+#setting_TZShop2{
+    background-image: url("../images/shop-page-section2.jpg");
+    background-position: 0 125px;
+    background-repeat: no-repeat;
+    min-height: 460px;
+}
+#setting_TZShop3{
+    background-image: url("../images/shop-page-section3.jpg");
+    background-position: 0 125px;
+    background-repeat: no-repeat;
+    min-height: 460px;
+}
+body .tzvc_icon{
+    background-image: url("../images/tz.png");
+}
+.option-tree-save-layout{
+    display: none !important;
+}
+/*=======================================
+page style
+========*/
+#portfolio_meta_box .ot-metabox-wrapper .format-settings{
+    margin-bottom: 0 !important;
+}
+#portfolio_meta_box .format-setting-label label{
+    padding: 0 0 15px !important;
+}
+
+/*=======================================
+Metabox
+========*/
+#setting_plazarttheme_portfolio_floating,
+#setting_plazarttheme_portfolio_slideshows_style,
+#setting_plazarttheme_portfolio_slideshows,
+#setting_plazarttheme_portfolio_video_mp4,
+#setting_plazarttheme_portfolio_video_ogv,
+#setting_plazarttheme_portfolio_video_webm,
+#setting_plazarttheme_portfolio_gallery,
+#setting_plazarttheme_portfolio_soundCloud_id,
+#setting_plazarttheme_portfolio_image,
+#setting_plazarttheme_portfolio_Quote_content,
+#setting_plazarttheme_portfolio_Quote_ds{
+    display: none;
+}
+
+
+#setting_plazarttheme_TZThemecolor,
+#setting_plazarttheme_TZThemecustom{
+    display: none;
+}

@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="This is Documentation">
+    <meta name="author" content="TemPlaza.com">
+    <link rel="icon" href="assets/favicon.ico">
+
+    <title>Aventura- Travelling WordPress Theme V.1.5</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/style/style.min.css" rel="stylesheet">
+    <meta name="nav" content="basic-settings">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body data-spy="scroll" data-target="#navaffix">
+
+<header id="navigator">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainnav">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a id="logo" class="navbar-brand" href="index.html"><img alt="TemPlaza" src="assets/logo.png"></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+
+            <div class="collapse navbar-collapse" id="mainnav">
+                <ul class="nav navbar-nav">
+                    <li data-menu="information"><a href="index.html">Information</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Installation
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li data-menu="getting-started"><a href="installation.html#getting-started">Getting
+                                Started</a>
+                            </li>
+                            <li data-menu="requirements"><a href="installation.html#requirements">Basic Requirements</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li data-menu="installation"><a href="installation.html#installation">Theme Installation</a>
+                            </li>
+                            <li data-menu="importation"><a href="installation.html#importation">Data Importation</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Basic
+                            Settings
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li data-menu="tutorials"><a href="basic-settings.html#tutorials">Tutorials</a></li>
+                            <li data-menu="menu-setting"><a href="basic-settings.html#menu-setting">Menu Setting</a>
+                            </li>
+                            <li data-menu="widgets"><a href="basic-settings.html#widgets">Widgets</a></li>
+                            <li data-menu="footer-settings"><a href="basic-settings.html#footer-settings">Footer
+                                Settings</a></li>
+                            <li data-menu="posts"><a href="basic-settings.html#posts">Posts</a></li>
+                        </ul>
+                    </li>
+                    <li data-menu="theme-option"><a href="theme-option.html">Theme Option</a></li>
+                    <li data-menu="demo-pages"><a href="pages.html">Demo Pages</a></li>
+                    <li data-menu="elements"><a href="elements.html">Elements</a></li>
+                    <li data-menu="faqs"><a href="faqs.html">FAQs</a></li>
+
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+</header>
+
+<!--Start Content generate-->
+
+<div class="title-head">
+    <div class="container">
+        <h1>Aventura - Basic Settings</h1>
+
+        <p>Learn about how to create Menu, Widgets and Footers</p>
+    </div>
+</div>
+<section class="general">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9" role="main">
+
+                <h2 id="tutorials" class="page-header">
+                    Tutorials
+                </h2>
+
+                <div class="step-child">
+
+                    <h4 id="template" class="page-header" style="color: #F1805E">
+                        1. Aventura - Templates
+                    </h4>
+
+                    <p>In Aventura theme, there are 3 built-in templates supported:</p>
+                    <ul>
+                        <li><strong>Template Default:</strong> This is a default one in WordPress. When you create a
+                            default page, you
+                            can see <strong>Page General Options</strong> option:
+                            <div class="gallery row">
+                                <div class="col-md-3">
+                                    <a data-rel="prettyPhoto" href="images/basic-settings/template3.jpg">
+                                        <img alt="" src="images/basic-settings/template3.jpg"
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a data-rel="prettyPhoto" href="images/basic-settings/template-default-options.jpg">
+                                        <img alt="" src="images/basic-settings/template-default-options.jpg"
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                            <ul>
+                                <li><strong>Row Option:</strong> Select <strong>Container</strong> if you want to make
+                                    your page boxed.
+                                    Select <strong>No Container</strong> to display your page in full width.
+                                </li>
+                                <li><strong>Padding Top/Bottom:</strong> Add the space between your content and the
+                                    top/bottom of the page.
+                                </li>
+                                <li><strong>Background Color:</strong> Select page color.</li>
+                                <li><strong>Header Option:</strong>
+                                    <ul>
+                                        <li><strong>Default:</strong> Use default header type which is selected in
+                                            <code>Theme Options ->
+                                                Header Options</code></li>
+                                        <li><strong>Custom:</strong> Select a header type for your page.</li>
+                                    </ul>
+                                </li>
+                                <li><strong>Breadcrumb Option</strong>
+                                    <ul>
+                                        <li><strong>Default:</strong> Use default settings in <code>Theme Options -->
+                                            Breadcrumb Options</code></li>
+                                        <li><strong>Custom:</strong> Configure the breadcrumb for the editing page.</li>
+                                    </ul>
+                                </li>
+                                <li><strong>Newsletter Page Option</strong>
+                                    <ul>
+                                        <li><strong>Default:</strong> Use default settings in <code>Theme Options -->
+                                            Newsletter</code></li>
+                                        <li><strong>Custom:</strong> Configure the newsletter form for the editing page.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <br>
+                        </li>
+                        <li><strong>Template Home Default:</strong> Used to create <strong>Home Pages (Home
+                            1,2,3,4)</strong>.
+                            <div class="gallery row">
+                                <div class="col-md-3">
+                                    <a data-rel="prettyPhoto" href="images/basic-settings/template-home-option.jpg">
+                                        <img alt="" src="images/basic-settings/template-home-option.jpg"
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li><strong>Template Home Slide:</strong> Used to create <strong>Home Slide</strong> page.
+                            <div class="gallery row">
+                                <div class="col-md-3">
+                                    <a data-rel="prettyPhoto"
+                                       href="images/basic-settings/template-home-slider-option.jpg">
+                                        <img alt="" src="images/basic-settings/template-home-slider-option.jpg"
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li><strong>Template Login:</strong> Used to create <strong>Login</strong> page.</li>
+                        <li><strong>Template Register:</strong> Used to create <strong>Register</strong> page.</li>
+                        <li><strong>Template Lost Password:</strong> Used to create <strong>Lost Password</strong> page.</li>
+                    </ul>
+
+                    <h4 id="page-builder" class="page-header" style="color: #F1805E">
+                        2. Visual Composer
+                    </h4>
+
+                    <p><a href="https://vc.wpbakery.com/" target="_blank">Visual Composer</a> is a required plugin which
+                        allows you to
+                        build different layouts easily. You can edit your page in <strong>Backend Editor</strong></p>
+
+                    <p><strong>Activate Page Builder</strong></p>
+                    <p>To start using Visual Composer, go to <strong>Page --> Add new</strong> and click on <strong>Backend
+                        Editor</strong></p>
+                    <div class="gallery row">
+                        <div class="col-md-3">
+                            <a data-rel="prettyPhoto[vc]" href="images/basic-settings/vc_1.jpg">
+                                <img alt="" src="images/basic-settings/vc_1.jpg" class="img-thumbnail img-responsive">
+                            </a>
+                        </div>
+                    </div>
+
+                    <p><strong>Basic Usages</strong></p>
+
+                    <div class="step-child">
+                        <p><strong>a. Add Elements</strong>: To add new elements, just click on <strong>Add
+                            Element</strong></p>
+                        <div class="gallery row">
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto[vc]" href="images/basic-settings/add-element.jpg">
+                                    <img alt="" src="images/basic-settings/add-element.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+
+                        <p><strong>b. Row Settings and Column Settings</strong></p>
+                        <div class="gallery row">
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto[vc]" href="images/basic-settings/vc-page-edit.jpg">
+                                    <img alt="" src="images/basic-settings/vc-page-edit.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                        <p><strong>Row Settings - General:</strong></p>
+                        <ul>
+                            <li>Parallax: You can select to use parallax feature or different style here. In case,
+                                parallax feature is turned on,
+                                there is an option for you to add parallax image.
+                            </li>
+                            <li>Row Type: There are 2 row types: <strong>Full-width and Boxed</strong>.</li>
+                            <li>Overlay Parallax: This option allows you to add overlay color when parallax feature is
+                                used.
+                            </li>
+                        </ul>
+                        <p><strong>Row Settings - Design Option:</strong> When you edit Row Settings or Column Settings,
+                            you can edit Design Option </p>
+                        <ul>
+                            <li>Padding: You can add padding for each element here.</li>
+                            <li>Border: You can create borders to wrap your element by adding values here.</li>
+                            <li>Margin: Similarly, you can set margin by adding values here.</li>
+                        </ul>
+                        <div class="gallery row">
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto[vc]" href="images/basic-settings/vc_design_option.jpg">
+                                    <img alt="" src="images/basic-settings/vc_design_option.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+
+                        <p><strong>c. Edit/Duplicate/Remove Elements:</strong></p>
+                        <p></p>
+                        <div class="gallery row">
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto[vc]" href="images/basic-settings/vc-element-edit.jpg">
+                                    <img alt="" src="images/basic-settings/vc-element-edit.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p><span class="alert_blue">Refer to <a href="https://siteorigin.com/page-builder/documentation/"
+                                                            target="_blank">
+                        VISUAL COMPOSER DOCUMENTATION</a></span></p>
+                    <!--visual composer-->
+
+
+                    <h4 id="contact-form-7" class="page-header" style="color: #F1805E">
+                        4. Contact Form 7
+                    </h4>
+
+                    <p>To create different forms, you can install and activate <a href="http://contactform7.com/"
+                                                                                  target="_blank">
+                        Contact Form 7</a> plugin.</p>
+                    <p>Go to <code>Dashboard --> Contact --> Add New</code> to create new form. You can use default form
+                        or use one of
+                        forms below:</p><br>
+
+                    <p><strong>Form 1:</strong> Used in <strong>Contact page</strong> demo</p><br>
+                    <div class="gallery row">
+                        <div class="col-md-6">
+                    <pre>
+                        &lt;p&gt;
+                            [text* your-name placeholder  "Name"] &lt;/p&gt;
+                        &lt;p&gt;
+                            [email* your-email placeholder "E-mail"] &lt;/p&gt;
+                        &lt;p&gt;
+                            [text your-subject placeholder "Subject"] &lt;/p&gt;
+                        &lt;p&gt;
+                            [textarea your-message placeholder "Message..."] &lt;/p&gt;
+                        &lt;p&gt;[submit "Send Now"]&lt;/p&gt;
+                    </pre>
+                        </div>
+                        <div class="col-md-6">
+                            <a data-rel="prettyPhoto" href="images/basic-settings/contact-form.jpg">
+                                <img alt="" src="images/basic-settings/contact-form.jpg"
+                                     class="img-thumbnail img-responsive">
+                            </a>
+                        </div>
+                    </div>
+
+                    <p><strong>Form 2:</strong> Used in <strong>Tour page >> Book now</strong></p>
+                    <div class="gallery row">
+                        <div class="col-md-6">
+                    <pre>
+                        &lt;label&gt; Your Name
+                        [text* your-name placeholder "Your Name.."] &lt;/label&gt;
+                        &lt;label&gt; Email
+                        [email* your-email placeholder "Email.."] &lt;/label&gt;
+                        &lt;label&gt; Message
+                        [textarea your-message placeholder "Message.."] &lt;/label&gt;
+                        [submit "Send Enquiry"]
+                    </pre>
+                        </div>
+                        <div class="col-md-6">
+                            <a data-rel="prettyPhoto" href="images/basic-settings/tour_booking.jpg">
+                                <img alt="" src="images/basic-settings/tour_booking.jpg"
+                                     class="img-thumbnail img-responsive">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!--menu setting start-->
+                <h2 id="menu-setting" class="page-header">
+                    Menus
+                </h2>
+
+                <h4>1. How To Create Menus</h4><br>
+
+                <p><strong>Step 1:</strong> You can manage main menu by going to <code>Appearance--> Menus.</code></p>
+
+                <p><strong>Step 2:</strong> Then you click <strong>Create Menu</strong> and type menu name.</p>
+
+                <p><strong>Step 3:</strong> You can generate menu items from left side and drag the generated menu at
+                    the
+                    right side to sort it. After that, next task is to assign menu to theme locations.</p>
+                <div class="gallery row">
+                    <div class="col-md-3">
+                        <a data-rel="prettyPhoto" href="images/theme-opt/create_menu.jpg">
+                            <img alt="" src="images/theme-opt/create_menu.jpg" class="img-thumbnail img-responsive">
+                        </a>
+                    </div>
+                </div>
+
+                <p><strong>Step 4:</strong> Click <strong>Save</strong></p>
+
+                <span class="alert_blue">TIP: Have a look here if you are still confused:
+                    <a href="https://codex.wordpress.org/WordPress_Menu_User_Guide" target="_blank">WordPress Menu
+                        User Guide</a></span>
+
+                <!--menu setting end-->
+
+                <h2 id="widgets" class="page-header">
+                    Widgets
+                </h2>
+
+                <p>You can add different widgets via <code>Appearance --> Widgets</code></p>
+
+                <p>Determine the position and add your favourite widgets. As can be seen easily, there are 10 positions
+                    where you can
+                    add widgets:</p>
+                <ul>
+                    <li><strong>Footer 1, 2, 3, 4:</strong> They are located in the bottom of each page, except for Home
+                        3 (home slide).
+                        <div class="gallery row">
+                            <div class="col-md-6">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/footer_demo.jpg">
+                                    <img alt="" src="images/basic-settings/footer_demo.jpg"
+                                         class="img-thumbnail img-responsive">
+                                    <div class="text-center">Footer demo</div>
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="gallery row">
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/footer1_widget.jpg">
+                                    <img alt="" src="images/basic-settings/footer1_widget.jpg"
+                                         class="img-thumbnail img-responsive">
+                                    <div class="text-center">Footer 1</div>
+
+                                </a>
+                            </div>
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/footer2_widget.jpg">
+                                    <img alt="" src="images/basic-settings/footer2_widget.jpg"
+                                         class="img-thumbnail img-responsive">
+                                    <div class="text-center">Footer 2</div>
+
+                                </a>
+                            </div>
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/footer3_widget.jpg">
+                                    <img alt="" src="images/basic-settings/footer3_widget.jpg"
+                                         class="img-thumbnail img-responsive">
+                                    <div class="text-center">Footer 3</div>
+
+                                </a>
+                            </div>
+                            <div class="col-md-3">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/footer4_widget.jpg">
+                                    <img alt="" src="images/basic-settings/footer4_widget.jpg"
+                                         class="img-thumbnail img-responsive">
+                                    <div class="text-center">Footer 4</div>
+
+                                </a>
+                            </div>
+
+                        </div>
+
+                    </li>
+                    <li><strong>Sidebar Home Slide:</strong> It is located in Home Slide.
+                        <div class="gallery row">
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/sidebar_home3.jpg">
+                                    <img alt="" src="images/basic-settings/sidebar_home3.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/sidebar_homeslide.jpg">
+                                    <img alt="" src="images/basic-settings/sidebar_homeslide.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/sidebar2_homeslide.jpg">
+                                    <img alt="" src="images/basic-settings/sidebar2_homeslide.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li><strong>Sidebar Shop:</strong> It is located in Shop page.
+                        <div class="gallery row">
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto" href="images/basic-settings/widgets_shop.jpg">
+                                    <img alt="" src="images/basic-settings/widgets_shop.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+                <!--widget end-->
+
+                <h2 id="footer-settings" class="page-header">
+                    Footer Settings
+                </h2>
+
+                <h4>1. Footer Options</h4>
+
+                <p>To configure the footer options, you go to <code>Appearance --> Theme Options --> Footer
+                    Options</code>. Here you can upload
+                    your <strong>footer background</strong>. This option includes 2 sub options:</p>
+                <ul>
+                    <li><strong>Footer content:</strong> This option allows you to divide your footer into different
+                        columns and select width for each column. Total width for all columns should be equal or smaller
+                        than 12
+                        <div class="gallery row">
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto" href="images/theme-opt/footer-column-opt-.jpg">
+                                    <img alt="" src="images/theme-opt/footer-column-opt-.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+                    <li><strong>Footer bottom:</strong> change or edit <strong>copyright</strong>.
+
+                        <div class="gallery row">
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto" href="images/theme-opt/footer-bottom.jpg">
+                                    <img alt="" src="images/theme-opt/footer-bottom.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+
+
+                </ul>
+
+                <h4>2. Demo Footer</h4>
+                <p>In demo, footer is divided into 4 equal columns. Navigate to <code>Appearance --> Widgets</code> to
+                    add different
+                    widgets to 4 footers. All widgets used in demo footer are listed below:</p>
+
+                <div class="gallery row">
+                    <div class="col-md-6">
+                        <a data-rel="prettyPhoto" href="images/basic-settings/footer_demo.jpg">
+                            <img alt="" src="images/basic-settings/footer_demo.jpg"
+                                 class="img-thumbnail img-responsive">
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <ol>
+                            <li><strong>Contact Info</strong> widget: In this widget, you are able to add your detail
+                                contact information
+                                including <strong>Address, Phone and Email</strong></li>
+                            <li><strong>DW Twitter</strong> widget: To use this widget, make sure that you get
+                                <a href="https://wordpress.org/plugins/dw-twitter/" target="_blank">DW Twitter</a>
+                                plugin installed.
+                                This widget requires you to add <strong>Consumer Key & Consumer Secret</strong>. Log in
+                                to
+                                <a href="https://dev.twitter.com/apps/" target="_blank">Twitter Developer page</a>, then
+                                create
+                                a new application to get this information.
+                            </li>
+                            <li><strong>Visual Editor</strong> widget: Make sure
+                                <a href="https://wordpress.org/plugins/black-studio-tinymce-widget/"
+                                   target="_blank">Black Studio TinyMCE widget</a> installed. This widget allows to add
+                                and edit your
+                                content in Text Editor normally.
+                            </li>
+
+                        </ol>
+                    </div>
+                </div>
+
+                <!--footer settings-->
+
+                <!--posts-portfolios start-->
+                <h2 id="posts" class="page-header">
+                    Posts
+                </h2>
+
+                <p><strong>Below information provides you with foundations of how to create a post with categories and
+                    tags.</strong></p>
+
+                <p>A post contains 2 basic elements: <strong>Post Categories and Post Tags.</strong>, so that you can
+                    manage
+                    all your posts easily. This part will introduce you to post categories and how to create them.</p>
+
+                <p><strong>Categories:</strong> To add new post categories, navigate to <code>Dashboard --> Posts -->
+                    Categories</code></p>
+
+                <p><strong>Tags:</strong> To add new tags, go to <code>Dashboard --> Posts --> Tags</code> and add tag
+                    name.</p>
+
+                <p>To create a post, you follow steps below:</p>
+                <div class="step-child">
+                    <p><strong>Step 1:</strong> Go to <strong>Posts --> Add new</strong></p>
+
+                    <p><strong>Step 2:</strong> Add your content, then choose categories and tags.</p>
+                </div>
+
+                <p>Aventura comes with 6 different post formats: <strong>Standard, Gallery, Video, Audio, Link and
+                    Quote</strong>.
+
+                    After installing this plugin, you are able to choose what post format you'd like from the tab
+                    options about the text editor,
+                    and insert necessary content.</p>
+
+                <div class="gallery row">
+                    <div class="col-md-4">
+                        <a data-rel="prettyPhoto" href="images/basic-settings/posts-types.jpg">
+                            <img alt="" src="images/basic-settings/posts-types.jpg"
+                                 class="img-thumbnail img-responsive">
+                        </a>
+                    </div>
+                </div>
+
+                <ul>
+                    <li><strong>Standard:</strong> With this format, you are only able to add texts into your posts.
+                    </li>
+                    <li><strong>Gallery:</strong> Add bundle of images to your post with this format.</li>
+                    <li><strong>Video:</strong> You can add Video URL (YouTube or Vimeo)or Embed code here
+                        <ul>
+                            <li><strong>How to get Embed code:</strong>
+                                <div class="gallery row">
+                                    <div class="col-md-4">
+                                        <a data-rel="prettyPhoto[posts]"
+                                           href="images/basic-settings/post-video-youtube.jpg">
+                                            <img alt="" src="images/basic-settings/post-video-youtube.jpg"
+                                                 class="img-thumbnail img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <a data-rel="prettyPhoto[posts]"
+                                           href="images/basic-settings/post-video-vimeo.jpg">
+                                            <img alt="" src="images/basic-settings/post-video-vimeo.jpg"
+                                                 class="img-thumbnail img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><strong>Audio:</strong> Similarly, you can add the Audio URL directly or add embed code here. To
+                        get these embed
+                        codes, you can go to <a href="http://soundcloud.com/" target="_blank">soundcloud.com</a> and
+                        search for your favorite
+                        audio.
+                        <div class="gallery row">
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto[posts]" href="images/basic-settings/post-audio.jpg">
+                                    <img alt="" src="images/basic-settings/post-audio.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+                    <li><strong>Link:</strong> For this post type, this link will be shown in your detail post instead
+                        of your content.
+                        <div class="gallery row">
+                            <div class="col-md-4">
+                                <a data-rel="prettyPhoto[posts]" href="images/basic-settings/post-link.jpg">
+                                    <img alt="" src="images/basic-settings/post-link.jpg"
+                                         class="img-thumbnail img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                    </li>
+                    <li><strong>Quote:</strong> In this type, you can add different quotes, just enter <strong>Source
+                        name, Source URL,
+                        & Content</strong></li>
+                </ul>
+                <br>
+
+
+            </div>
+            <div class="col-md-3" role="complementary">
+                <nav class="docs-sidebar hidden-print hidden-xs hidden-sm" id="navaffix">
+                    <ul class="nav docs-sidenav" role="tablist">
+                        <li class="">
+                            <a href="#tutorials">Tutorials</a>
+                            <ul class="nav">
+                                <li><a href="#template">Aventura - Templates</a></li>
+                                <li><a href="#page-builder">Visual Composer</a></li>
+
+                                <li><a href="#contact-form-7">Contact Form 7</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#menu-setting">Menu Setting</a>
+                        </li>
+                        <li>
+                            <a href="#widgets">Widgets</a>
+                        </li>
+                        <li>
+                            <a href="#footer-settings">Footer Settings</a>
+                        </li>
+                        <li class="">
+                            <a href="#posts">Posts Foundation</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End content generate-->
+
+<footer id="doc-footer">
+    <div class="container">
+        <div class="doc-social">
+            <ul class="docs-social-buttons">
+                <li>
+                    <a href="https://twitter.com/templazavn" class="twitter-follow-button"><i
+                            class="fa fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/templaza" class="facebook-like-button"><i
+                            class="fa fa-facebook-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://plus.google.com/+Templaza/" class="google-plus-button"><i
+                            class="fa fa-google-plus-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://dribbble.com/templaza" class="dribbble-button"><i class="fa fa-dribbble"></i></a>
+                </li>
+                <li>
+                    <a href="https://github.com/templaza" class="github-button"><i class="fa fa-github"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.youtube.com/channel/UCykS6SX6L2GOI-n3IOPfTVQ" class="youtube-button"><i
+                            class="fa fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.behance.net/templaza" class="behance-button"><i
+                            class="fa fa-behance-square"></i></a>
+                </li>
+            </ul>
+        </div>
+
+
+        <p>Copyright © 2015 <a href="http://www.templaza.com/">TemPlaza</a>. All Rights Reserved.</p>
+        <ul class="docs-footer-links text-muted">
+            <li><a href="https://www.templaza.com/">TemPlaza</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/joomla-templates">Joomla Template</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/wordpress-themes">WordPress Theme</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/free-stuff">Freebies</a></li>
+            <li>·</li>
+            <li><a href="https://www.templaza.com/Forums/forums.html">Forums</a></li>
+            <li>·</li>
+            <li><a href="http://www.templaza.com/blog/">Blog</a></li>
+        </ul>
+    </div>
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.prettyPhoto.js"></script>
+<script src="assets/js/doc.js"></script>
+<div id="trackscript"><!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = {atrk_acct: "r77Zi1a8Dy00yl", domain: "templaza.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=r77Zi1a8Dy00yl" style="display:none"
+                   height="1" width="1" alt=""/></noscript>
+    <!-- End Alexa Certify Javascript -->
+    <!-- Start Google Analytics Javascript -->
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-26265573-1', 'templaza.com');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics Javascript -->
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+        window.$zopim || (function (d, s) {
+            var z = $zopim = function (c) {
+                z._.push(c)
+            }, $ = z.s =
+                    d.createElement(s), e = d.getElementsByTagName(s)[0];
+            z.set = function (o) {
+                z.set._.push(o)
+            };
+            z._ = [];
+            z.set._ = [];
+            $.async = !0;
+            $.setAttribute('charset', 'utf-8');
+            $.src = '//v2.zopim.com/?1tuDX8gQ1pKTSkSVkYC9WczvTwtzyJ3m';
+            z.t = +new Date;
+            $.type = 'text/javascript';
+            e.parentNode.insertBefore($, e)
+        })(document, 'script');
+    </script>
+    <!--End of Zopim Live Chat Script--></div>
+</body>
+</html>

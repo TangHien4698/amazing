@@ -1,0 +1,1 @@
+[29-May-2018 03:00:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tznet/public_html/wordpress/aventura/wp-content/themes/aventura/index.php on line 2
